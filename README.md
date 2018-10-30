@@ -61,6 +61,13 @@
 	
   <input type="submit" value="Submit">
 </form>
+input:invalid {
+  border: 2px dashed red;
+}
+
+input:valid {
+  border: 2px solid black;
+}
 
 </body>
 </html>
