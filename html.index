@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form>
+  <br> State Code:
+  <input type="text" statecode="State Code" maxlength="2"><br>
+  <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
